@@ -1,5 +1,5 @@
 development:
-  cert: '/config/push_certs/push-test-cert.pem'
+  cert: '/config/push_certs/push-development-cert.pem'
   url: 'gateway.sandbox.push.apple.com'
 
 production:
