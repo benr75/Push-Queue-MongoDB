@@ -1,0 +1,11 @@
+*~
+*.cache
+*.log
+*.pid
+log/*.log
+tmp/
+.DS_Store
+config/database.yml
+public/system
+*.p12
+*.pem

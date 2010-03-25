@@ -1,0 +1,1 @@
+MongoMapper.database = "push_db-#{Rails.env}"
