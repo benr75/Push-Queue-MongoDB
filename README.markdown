@@ -3,7 +3,9 @@
 ## Configuration
 
 1. Create your development and production certificates in the Apple Provisioning Portal
+
 2. Export the certs in p12 format
+
 3. Convert the p12 to pem format
 
     openssl pkcs12 -in DevelopmentPushCert.p12 -out push-development-cert.pem -nodes -clcerts
